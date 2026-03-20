@@ -1,10 +1,10 @@
-import About from "@/Components/About";
-import Hero from "@/Components/Hero";
-import Programs from "@/Components/Programs";
-import Work from "@/Components/Work";
-import Mentor from "@/Components/Mentor";
-import FAQ from "@/Components/FAQ";
-import SuccessStories from "@/Components/SuccessStories";
+import About from "@/components/About";
+import Hero from "@/components/Hero";
+import Programs from "@/components/Programs";
+import Work from "@/components/Work";
+import Mentor from "@/components/Mentor";
+import FAQ from "@/components/FAQ";
+import SuccessStories from "@/components/SuccessStories";
 
 export default function Home() {
   return (

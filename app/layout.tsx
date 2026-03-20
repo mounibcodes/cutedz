@@ -2,9 +2,9 @@ import type { Metadata } from "next";
 import { Geist, Geist_Mono } from "next/font/google";
 import "./globals.css";
 import localFont from "next/font/local";
-import Nav from "@/Components/Nav";
-import Footer from "@/Components/Footer";
-import SmoothScroll from "@/Components/SmoothScroll";
+import Nav from "@/components/Nav";
+import Footer from "@/components/Footer";
+import SmoothScroll from "@/components/SmoothScroll";
 
 
 const workSans = localFont({
